@@ -1,0 +1,31 @@
+클래스 선언시
+Bus 혹은 BusTerminal 이런식으로 정의
+변수선언은 기본적으로 첫단어는 소문자이고 
+두번째 단어가 들어간다면 첫문자가 대문자
+
+newUserLabel(라벨)
+newUserBtn(버튼)
+newUserPan(패널)
+newUserText(텍스트필드)
+newUserCBox(콤보박스)
+newUserChBox(체크박스)
+newUserRadio(라디오 버튼)
+newUserImage(이미지)
+newUserColor(색상)
+
+
+
+2월22일~28일 x7
+6 : 00 ~ 18 : 00 x25
+출발 - 서울 , 인천 , 대전, 부산, 대구 
+도착 - 서울 , 인천 , 대전, 부산, 대구
+
+
+
+
+
+
+
+
+
+
